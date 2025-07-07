@@ -17,7 +17,9 @@ const Hero = () => {
       </div>
 
       <div className='relative bottom-[30%] left-[10%] left-0 z-10'>
-        <Tag />
+        <Tag
+        text="Where tradition meets taste"
+        />
       </div>
     </div>
   )
