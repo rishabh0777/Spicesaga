@@ -3,7 +3,7 @@ import NewsImg from "../assets/news.jpg"
 
 const News = () => {
   return (
-    <div>News</div>
+    <div className='w-full h-screen relative'>News</div>
   )
 }
 

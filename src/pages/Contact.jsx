@@ -3,7 +3,7 @@ import ContactImg from "../assets/contact.jpg"
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div className='w-full h-screen relative'>Contact</div>
   )
 }
 

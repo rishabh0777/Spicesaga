@@ -3,7 +3,7 @@ import AboutImg from "../assets/story.jpg"
 
 const About = () => {
   return (
-    <div>About</div>
+    <div className='w-full h-screen relative'>About</div>
   )
 }
 

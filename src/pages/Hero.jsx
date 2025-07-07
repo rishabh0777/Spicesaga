@@ -3,7 +3,7 @@ import HeroImg from "../assets/hero.jpg"
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <div className='w-full h-screen relative'>Hero</div>
   )
 }
 

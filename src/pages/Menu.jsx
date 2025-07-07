@@ -5,7 +5,7 @@ import Brews from "../assets/brews.jpg"
 
 const Menu = () => {
   return (
-    <div>Menu</div>
+    <div className='w-full h-screen relative'>Menu</div>
   )
 }
 

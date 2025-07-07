@@ -2,7 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <nav className='fixed w-full h-[10vh]'> 
+
+    </nav>
   )
 }
 
