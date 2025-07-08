@@ -3,9 +3,10 @@ import Tag from "../components/Tag"
 
 const Hero = () => {
   return (
-    <div className='w-full sm:h-[40vh] md:h-[120vh] relative'>
+    <div id='home' className='w-full sm:h-[40vh] md:h-[120vh] relative'>
       <div className='absolute inset-0 z-0'>
         <img 
+        
           className='w-full h-full object-cover object-center'
           src={HeroImg} 
           alt="Hero Background" 

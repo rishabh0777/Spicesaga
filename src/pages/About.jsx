@@ -3,7 +3,7 @@ import AboutImg from "../assets/story.jpg"
 
 const About = () => {
   return (
-    <div className='w-full relative'>
+    <div id='story' className='w-full relative'>
       <div className='w-full md:h-[50vh] h-[40vh] relative'>
         <img 
         className="w-full h-full object-cover"

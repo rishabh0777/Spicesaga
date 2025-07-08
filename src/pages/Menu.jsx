@@ -6,7 +6,7 @@ import Tag from '../components/Tag';
 
 const Menu = () => {
   return (
-    <div className='w-full relative bg-red-900 text-white pt-[10vh]'>
+    <div id='menu' className='w-full relative bg-red-900 text-white pt-[10vh]'>
       
       {/* Heading */}
       <h1 className='text-[9vw] md:text-[6vw] text-center mb-4 md:mb-0'>ON THE MENU</h1>

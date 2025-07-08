@@ -4,7 +4,7 @@ import Tag from "../components/Tag"
 
 const Contact = () => {
   return (
-    <div className='w-full min-h-screen md:h-screen flex justify-between flex-col md:flex-row overflow-hidden bg-red-900 text-white '>
+    <div id='contact' className='w-full min-h-screen md:h-screen flex justify-between flex-col md:flex-row overflow-hidden bg-red-900 text-white '>
 
       {/* Left Content */}
       <div className="w-full md:w-1/2 h-auto md:h-full flex flex-col justify-center items-center px-4 pt-[10vh] gap-6">
