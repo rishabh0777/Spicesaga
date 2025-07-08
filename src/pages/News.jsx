@@ -3,7 +3,7 @@ import NewsImg from "../assets/news.jpg";
 
 const News = () => {
   return (
-    <div className='w-full min-h-screen relative text-white'>
+    <div className='w-full min-h-[90vh] relative text-white'>
       
       {/* Background Image */}
       <img 
